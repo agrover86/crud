@@ -1,0 +1,29 @@
+add_owners.php	   gulpfile.js	owners.php	   README.md
+delete_owners.php  index.php	package.json	   service-worker.js
+edit_owners.php    LICENSE	package-lock.json
+
+css:
+freelancer.css	freelancer.min.css
+
+img:
+icons  profile.png
+
+includes:
+database.php   db_object.php  init.php	      owner.php
+db_config.php  functions.php  new_config.php
+
+js:
+contact_me.js	   freelancer.min.js	     jqBootstrapValidation.min.js
+contact_me.min.js  idb.js		     main.js
+freelancer.js	   jqBootstrapValidation.js
+
+mail:
+contact_me.php
+
+scss:
+_bootstrap-overrides.scss  _global.scss    _navbar.scss     freelancer.scss
+_contact.scss		   _masthead.scss  _portfolio.scss
+_footer.scss		   _mixins.scss    _variables.scss
+
+vendor:
+bootstrap  font-awesome  jquery  jquery-easing	magnific-popup
